@@ -1,0 +1,6 @@
+- while using viewsets, if in the class we use viewsets.ViewSet,
+then  we have to create a number of functions. 
+
+- import router
+- configure urls to set to register the routers
+
